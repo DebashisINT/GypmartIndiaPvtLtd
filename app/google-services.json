@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474499621912",
+    "project_id": "gypmart-52056",
+    "storage_bucket": "gypmart-52056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474499621912:android:7b57e471fa0244129b4f6d",
+        "android_client_info": {
+          "package_name": "com.gypmartfsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZHhwdBe0ru_u6zEJyVgwnWTr2ljXpyzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
