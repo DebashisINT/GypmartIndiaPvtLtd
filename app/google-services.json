@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "474499621912",
-    "project_id": "gypmart-52056",
-    "storage_bucket": "gypmart-52056.appspot.com"
+    "project_number": "836726896458",
+    "project_id": "breeze-gypmart",
+    "storage_bucket": "breeze-gypmart.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:474499621912:android:7b57e471fa0244129b4f6d",
+        "mobilesdk_app_id": "1:836726896458:android:b25b81f0b56ddef9a773b3",
         "android_client_info": {
-          "package_name": "com.gypmartfsm"
+          "package_name": "com.breezefieldsalesgypmart"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDZHhwdBe0ru_u6zEJyVgwnWTr2ljXpyzo"
+          "current_key": "AIzaSyCRO59hFwGsRZ-hWPbcZRinoypONKpFiYQ"
         }
       ],
       "services": {

@@ -48,7 +48,7 @@
 
         </FrameLayout>
 
-        <com.gypmartfsm.widgets.AppCustomEditText
+        <com.breezefieldsalesgypmart.widgets.AppCustomEditText
             android:id="@+id/et_dialog_contact_search"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -118,7 +118,7 @@
             app:layout_constrainedHeight="true"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
 
-        <com.gypmartfsm.widgets.AppCustomTextView
+        <com.breezefieldsalesgypmart.widgets.AppCustomTextView
             android:id="@+id/tv_dialog_cont_list_submit"
             android:layout_width="match_parent"
             android:layout_height="@dimen/_35sdp"

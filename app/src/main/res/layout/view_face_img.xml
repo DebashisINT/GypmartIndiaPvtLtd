@@ -29,7 +29,7 @@
     </FrameLayout>
 
 
-    <com.gypmartfsm.widgets.AppCustomTextView
+    <com.breezefieldsalesgypmart.widgets.AppCustomTextView
         android:id="@+id/face_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
